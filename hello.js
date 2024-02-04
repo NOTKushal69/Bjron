@@ -45,7 +45,8 @@
 //     x:800,
     
 
-// })
+// // })
+// bvksdc
 var tu=gsap.timeline();
 
 
