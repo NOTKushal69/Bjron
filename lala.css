@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-family: kusu;
+}
+@font-face {
+    font-family: kusu;
+    src: url(Montserrat-VariableFont_wght.ttf);
+}
+.display{
+height: 200px;
+width: 200px;
+border: 1px solid ;
+
+}
+.game{
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
